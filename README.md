@@ -6,7 +6,7 @@ A collection of practical GenAI mini-apps and experiments covering LLMs, embeddi
 
 ## 📌 About
 
-This repo contains hands-on experiments and mini-apps built while exploring Generative AI concepts. Each folder is a self-contained app focusing on a specific GenAI concept or technique. Not polished products — deliberate practice.
+This repo contains hands-on experiments and mini-apps built while exploring Generative AI concepts. Each folder is a self-contained app focusing on a specific GenAI concept or technique. Not polished products but deliberate practice.
 
 ---
 
